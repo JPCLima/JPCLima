@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm João Lima
 
-I'm a Senior Automation with experience in software development and quality assurance. My passion lies in developing scalable and efficient automations frameworks using python. I have good kknolage in various framewords as Pandas, Selenium, Beautiful Soup, TensorFlow, Django, and other, that allows me to develop reliable and roubust automation soluctions.
+I'm a Senior Automation with experience in software development. My passion lies in developing scalable and efficient process automations using Python. I have good knowledge in various frameworks as Pandas, Selenium, Beautiful Soup, TensorFlow, Django, and other that allows me to develop reliable and roubust automation soluctions.
 
-💻 I'm Currently workng on
+💻 I'm currently working on:
 * Studying and creating projects in NLP
 
 ## Contact Me
