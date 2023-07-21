@@ -4,6 +4,7 @@ I'm a Senior Automation with experience in software development. My passion lies
 
 💻 I'm currently working on:
 * Studying and creating projects in NLP
+* Working on Django application
 
 ## Contact Me
 
