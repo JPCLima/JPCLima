@@ -8,4 +8,4 @@ I'm a Senior Automation with experience in software development. My passion lies
 ## Contact Me
 
 - Email: jpclima93@gmail.com
-- LinkedIn: linkedin.com/in/joaopclima
+- LinkedIn: [linkedin.com/in/joaopclima](https://www.linkedin.com/in/joaopclima/)
